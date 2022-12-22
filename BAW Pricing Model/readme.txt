@@ -1,0 +1,1 @@
+https://ba-odegaard.no/gcc_prog/recipes/
